@@ -2,7 +2,7 @@
 
 Sistema bancário com saque, depósito e extrato criado em Python com visual colorido no terminal (ANSI).
 
-> Desafio realizado na plataforma **Webdeal**, com objetivo de aplicar lógica de programação, controle de fluxo e boas práticas em Python.
+> Desafio realizado com objetivo de aplicar lógica de programação, controle de fluxo e boas práticas em Python.
 
 ---
 
